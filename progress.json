@@ -1,0 +1,21 @@
+{
+  "project": "Hebrew RTL Kanban Board",
+  "totalTasks": 13,
+  "completedTasks": 5,
+  "lastUpdated": "2026-02-18",
+  "tasks": [
+    { "id": 1, "name": "Scaffold Vite + React project",  "status": "done" },
+    { "id": 2, "name": "Firebase configuration",         "status": "done" },
+    { "id": 3, "name": "Firestore users module",         "status": "done" },
+    { "id": 4, "name": "Firestore tasks module",         "status": "done" },
+    { "id": 5, "name": "Firebase Storage module",        "status": "done" },
+    { "id": 6, "name": "Seed script",                    "status": "pending" },
+    { "id": 7, "name": "Avatar component",               "status": "pending" },
+    { "id": 8, "name": "TaskCard component",             "status": "pending" },
+    { "id": 9, "name": "Column component",               "status": "pending" },
+    { "id": 10, "name": "TaskModal component",           "status": "pending" },
+    { "id": 11, "name": "Board component",               "status": "pending" },
+    { "id": 12, "name": "Wire App.jsx",                  "status": "pending" },
+    { "id": 13, "name": "Final polish",                  "status": "pending" }
+  ]
+}

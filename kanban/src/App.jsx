@@ -27,7 +27,7 @@ export default function App() {
       {/* Header */}
       <header className="bg-white border-b border-gray-200 px-6 py-4 flex items-center justify-between shadow-sm sticky top-0 z-10">
         <h1 className="text-xl font-bold text-gray-800 tracking-tight">
-          לוח משימות — AI Travel Dashboard
+          לוח משימות — Book-A-Trip
         </h1>
           <button
             onClick={() => setShowCreate(true)}
